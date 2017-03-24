@@ -1,0 +1,106 @@
+<resources>
+
+    <string name="app_name">ShareEat</string>
+
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <string name="bingung_makan_dimana">BINGUNG MAKAN DIMANA</string>
+    <string name="cari_tempet_makan_dan_makanan_di_sekitarmu">Cari tempet makan dan makanan di sekitarmu</string>
+
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="nav_terdekat">Terdekat</string>
+    <string name="nav_rekomendasi">Rekomendasi</string>
+    <string name="nav_tambah_tempat_makan">Tambah Tempat Makan</string>
+    <string name="nav_settings">Pengaturan</string>
+    <string name="nav_about_us">Tentang Kami</string>
+    <string name="merek">Share Eat</string>
+    <string name="slogan">Share it what you eat</string>
+    <string name="tulis_pengalaman">Tulis Pengalaman Kamu Disini</string>
+    <string name="review1">Kirim review (Maksimal 500 karakter)</string>
+    <string name="kirim">Kirim</string>
+    <string name="set_rating">Ratingnya</string>
+    <string name="tempat_makan">Nama Tempat Makan</string>
+    <string name="alamat_resaturant">Alamat Restaurant</string>
+    <string name="visited">Kamu berkunjung sebanyak: </string>
+    <string name="limit">400</string>
+    <string name="share">Bagikan dengan teman!</string>
+    <string name="aboutus2">Aplikasi ShareEat merupakan aplikasi berbasis android yang memungkinkan user untuk berbagi pengalaman berwisata kuliner</string>
+    <string name="tentang">Tentang Aplikasi</string>
+    <string name="logo">Share Eat</string>
+    <string name="nama_menu">Nama Menu</string>
+    <string name="foto_tempatmakan">Foto tempat makan</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="contoh_alamat">Jl.Babakan Ciamis No. 84 b</string>
+    <string name="icon_telp">icon telepon</string>
+    <string name="daftar_menu">Daftar Menu</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Terdekat</item>
+        <item>Kategori</item>
+        <item>Tambah Data</item>
+        <item>Login</item>
+        <item>Tentang Kami</item>
+    </string-array>
+
+    <string-array name="lokasi_tempat">
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Timur</item>
+        <item>Jakarta</item>
+        <item>Sumatera Barat</item>
+    </string-array>
+
+    <string-array name="order">
+        <item>Berdasarkan Menu</item>
+        <item>Berdasarkan Tempat Makan</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="Login">LOGIN MENGGUNAKAN AKUN GOOGLE</string>
+
+    <string name="FirebaseGagal">Gagal Terhubung, Periksa Koneksi Anda</string>
+    <string name="action_simpan">SIMPAN</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_next">NEXT</string>
+    <string name="no_permission">No permission,allow permission</string>
+    <string name="denied_permission">Oops you just denied the permission</string>
+    <string name="allow_permission">Permission granted now you can read the storage</string>
+    <string name="hint_email">Surel</string>
+    <string name="hint_password">Kata Sandi</string>
+    <string name="action_daftar">Daftar</string>
+    <string name="action_lupa">Lupa Password</string>
+    <string name="password_requirement">Minimal 6 karakter password</string>
+    <string name="failed_login">gagal masuk</string>
+    <string name="data_restaurant_masih_kosong">Data Restaurant Masih Kosong</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="batal">BATAL</string>
+    <string name="nav_kategori">Kategori</string>
+    <string name="belum_punya_akun">Belum Punya Akun ?</string>
+    <string name="masuk">Masuk</string>
+    <string name="icon_share_eat">Icon Share Eat</string>
+    <string name="tambah_menu">Tambah Menu</string>
+    <string name="tambah_tempat">Tambah Tempat</string>
+    <string name="selanjutnya">SELANJUTNYA</string>
+
+    <string-array name="reviewer">
+        <item>Udin</item>
+        <item>Riska</item>
+        <item>Pamungkas</item>
+    </string-array>
+
+
+</resources>

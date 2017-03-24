@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_terdekat"
+            android:icon="@drawable/ic_person_pin_circle_black_24dp"
+            android:title="Tempat Terdekat" />
+        <item
+            android:id="@+id/nav_cari"
+            android:icon="@drawable/search"
+            android:title="Cari Menu" />
+        <item
+            android:id="@+id/nav_tambah"
+            android:icon="@drawable/ic_add_black_24dp"
+            android:title="Tambah Tempat dan Menu" />
+        <item
+            android:id="@+id/nav_data"
+            android:icon="@drawable/ic_file"
+            android:title="Data Saya" />
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_login"
+            android:title="Login" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="@string/nav_about_us" />
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:title="@string/privacy_policy" />
+        </menu>
+    </item>
+
+</menu>

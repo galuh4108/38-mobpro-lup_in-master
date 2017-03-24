@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "555795832538",
+    "firebase_url": "https://shareeat-ca470.firebaseio.com",
+    "project_id": "shareeat-ca470",
+    "storage_bucket": "shareeat-ca470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555795832538:android:3805b50898327ae0",
+        "android_client_info": {
+          "package_name": "com.d3if384160.shareeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555795832538-g0asa0bofnscsft82ka1hbua3cbbv25r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIFRAQUvIfHcIEx_qDGeQZHMEQhZ7zx-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555795832538:android:52c577442859716b",
+        "android_client_info": {
+          "package_name": "com.d3if3804160.shareeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555795832538-g0asa0bofnscsft82ka1hbua3cbbv25r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIFRAQUvIfHcIEx_qDGeQZHMEQhZ7zx-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

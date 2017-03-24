@@ -1,0 +1,7 @@
+package com.d3if3804160.shareeat.Util;
+
+
+public class Constant {
+    public static final  int REQUEST_READ_PHONE_STATE = 1,REQUEST_NETWORK_STATE=2,ACCESS_COARSE_LOCATION=3,REQUEST_GPS_LOCATION=4,REQUEST_WRITE_APN=5,ACCESS_FINE_LOCATION=6;
+
+}

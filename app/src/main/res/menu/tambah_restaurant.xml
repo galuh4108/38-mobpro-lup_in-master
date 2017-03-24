@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/batal"
+        android:icon="@drawable/ic_batal"
+        android:title="@string/batal"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/next"
+        android:icon="@drawable/ic_next"
+        android:title="@string/selanjutnya"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/simpan"
+        android:icon="@drawable/ic_simpan"
+        android:title="@string/action_simpan"
+        app:showAsAction="ifRoom" />
+</menu>
